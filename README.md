@@ -1,4 +1,5 @@
 This task was successfully completed by Aminu Nasiru Yaro
+
 Step 0 - Create an account on GitHub [if you do not have one already]
 You will need a GitHub account for all your projects at ALX.
 
